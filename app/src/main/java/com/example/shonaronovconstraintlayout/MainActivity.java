@@ -25,8 +25,7 @@ public class MainActivity extends AppCompatActivity {
         tv6 = findViewById(R.id.Tv6);
         tv7 = findViewById(R.id.Tv7);
         tv1.setText("Cars x Classic Clog Lightning McQueen");
-        tv2.setText("The Cars x Crocs Classic Clog ‘Lightning McQueen’ takes inspiration from the vehicular hero of the hit 2006 Pixar film. The character’s likeness, highlighted by windshield eyes and a smiling grille, appears on the red Croslite foam upper. The character’s signature decals are accompanied by functioning LEDs that light up with every step. Large perforations on the toe box offer improved breathability, while a pivoting heel strap provides a secure fit.\n" +
-                "\n");
+        tv2.setText("The Cars x Crocs Classic Clog ‘Lightning McQueen’ takes inspiration from the vehicular hero of the hit 2006 Pixar film. The character’s likeness, highlighted by windshield eyes and a smiling grille.  functioning LEDs that light up with every step.");
         tv3.setText("10/10");
         tv4.setText("Sarah G. : ");
         tv5.setText("I bought these Lightning Speedy McQueen Red Crocs for my son, and he absolutely loves them! The fit is great, and they are of good quality. The best part is that they light up just as described. Highly recommended if your kids like to wear Crocs.");

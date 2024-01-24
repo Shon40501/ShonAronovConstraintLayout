@@ -42,15 +42,15 @@
         android:id="@+id/Tv4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="157dp"
+        android:layout_marginTop="172dp"
         android:text="Customer1name"
         app:layout_constraintStart_toStartOf="@+id/guideline2"
         app:layout_constraintTop_toBottomOf="@+id/Sm1" />
 
     <TextView
         android:id="@+id/Tv5"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="313dp"
+        android:layout_height="85dp"
         android:layout_marginTop="16dp"
         android:text="Customer1Review"
         app:layout_constraintStart_toStartOf="@+id/Tv4"
@@ -58,8 +58,8 @@
 
     <TextView
         android:id="@+id/Tv7"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="313dp"
+        android:layout_height="196dp"
         android:layout_marginTop="12dp"
         android:text="Customer2Review"
         app:layout_constraintStart_toStartOf="@+id/Tv6"
@@ -69,7 +69,7 @@
         android:id="@+id/Tv6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="324dp"
+        android:layout_marginTop="292dp"
         android:text="Customer2Name"
         app:layout_constraintStart_toStartOf="@+id/guideline2"
         app:layout_constraintTop_toBottomOf="@+id/Sm1" />
@@ -92,16 +92,17 @@
         android:id="@+id/TV1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="20dp"
         android:text="Nameoftheshoe"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/guideline2"
         app:layout_constraintTop_toBottomOf="@+id/Sm1" />
 
     <TextView
         android:id="@+id/Tv2"
-        android:layout_width="162dp"
-        android:layout_height="17dp"
+        android:layout_width="313dp"
+        android:layout_height="106dp"
         android:layout_marginTop="13dp"
         android:text="ShoeDescription"
         app:layout_constraintStart_toStartOf="@+id/TV1"
